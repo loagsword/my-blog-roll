@@ -3,13 +3,10 @@
     background-size:cover;
 }
 
-
 .featured-image.vector-owls {
     background-image:url(https://i0.wp.com/njitvector.com/wp-content/uploads/2018/04/a2769366830_10.jpg?zoom=3&resize=760%2C490);
     background-size:cover;
 }
-
-
 
 .featured-image.vector-you {
 
@@ -21,14 +18,11 @@
     
 }
 
-
-
 .featured-image.njit-soma {
     background-image:url(https://i0.wp.com/njitvector.com/wp-content/uploads/2018/05/9d0b7db5-11c0-40e8-a0ce-562fe0ead7a9-1.png?w=420);
     background-size:cover;
     
 }
-
 
 .eco-hand-image {
     background-image: url(https://njitgreenblog.weebly.com/uploads/1/1/9/7/119743249/299803-p7fmrm-367_orig.jpg);
@@ -40,12 +34,10 @@
     background-size:cover;
 }
 
-
 .sonic-soon {
     background-image: url(https://pro2-bar-s3-cdn-cf2.myportfolio.com/89b417a5-2cdf-4888-87e8-384fafe57a11/37073fd2-f51a-4cfd-8b99-714f91479de8_rw_1920.png?h=d4eb92dd5d207b0e82b158d37741d58d);
     background-size: cover;
 }
-
 
 /* listed articles format */
 .row.listed {
@@ -67,11 +59,7 @@
     -webkit-flex-basis:100%;
     -ms-flex-preferred-size:100%;
     flex-basis:100%
-
-
-
 }
-
 
 .row.listed.newline {
     display: block;
@@ -83,11 +71,9 @@
 }
 .row.listed a {
     text-decoration: none;
-
 }
 
 .row.featured.last{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
-
 
 .row.featured{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%}
 
