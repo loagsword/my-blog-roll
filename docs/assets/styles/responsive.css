@@ -1,0 +1,9 @@
+@import 'loags.tomjohn.min.css';
+@import 'featuredimages.min.css';
+    
+@media only screen and (max-width: 768px) {
+    div .row {
+        display: flex !important;
+        flex-direction: column !important; 
+    }
+}
